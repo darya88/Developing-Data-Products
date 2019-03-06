@@ -6,7 +6,7 @@ This peer assessed assignment has 3 parts. First, part is a Shiny application wh
 Here is the link for application - https://deepakarya-apps.shinyapps.io/CarCompare/
 
 ## Second Part - The presentation
-Here is the link for pressentation - 
+Here is the link for pressentation - http://rpubs.com/darya88/473596
 
 ## Third part - The code
 server.R and ui.R can be found in this github repository itself
